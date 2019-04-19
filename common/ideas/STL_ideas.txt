@@ -625,4 +625,23 @@ ideas = {
 			}
 		}
 	}
+
+		country = {
+		STL_Population_Problem_Idea = {
+			
+			allowed = {
+				always = no
+			}
+
+			allowed_civil_war = {
+				always = yes
+			}
+
+			removal_cost = -1
+			
+			modifier = {
+				MONTHLY_POPULATION = 0.1
+			}
+		}
+	}
 }
