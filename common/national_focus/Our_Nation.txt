@@ -2191,7 +2191,7 @@ focus_tree = {
 		add_ideas = STL_Population_Problem_Idea		
 		}
 	}
-	
+
 	focus = {
 		id = Proper_Medicine
 		icon = GFX_goal_cry_medicine

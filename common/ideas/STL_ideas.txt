@@ -626,6 +626,7 @@ ideas = {
 		}
 	}
 
+
 		country = {
 		STL_Population_Problem_Idea = {
 			
